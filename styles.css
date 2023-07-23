@@ -100,3 +100,11 @@ form h4 {
   color: white;
   background-color: black;
 }
+
+div h4 {
+  width: 100%;
+  padding: 0.25rem;
+  margin: 0.5rem 0;
+  color: white;
+  background-color: black;
+}
